@@ -1,0 +1,18 @@
+# Market Predictor Requirements
+# All free and open-source libraries
+
+# Data fetching
+yfinance>=0.2.28
+
+# Data manipulation
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+
+# Visualization
+matplotlib>=3.6.0
+
+# Optional but recommended
+seaborn>=0.12.0
